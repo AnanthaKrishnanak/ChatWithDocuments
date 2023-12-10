@@ -21,7 +21,7 @@ export default function Home() {
 					target="_blank"
 					className={buttonVariants({
 						size: "lg",
-						className: "mt-5 bg-black hover:bg-black/75",
+						className: "mt-5",
 					})}
 				>
 					Get started <ArrowRight className="ml-2 h-5 w-5" />
